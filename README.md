@@ -4,7 +4,7 @@
 Isi materi ini masih dalam pengembangan. Tidak menutup kemungkinan isinya akan berubah drastis. (Semoga saja tidak.)
 
 ## Hasil Praktek
-Ada di repo Laravel TDD.
+Ada di [repo Laravel TDD](https://github.com/ianmustafa/laravel-tdd).
 
 [![Build Status](https://travis-ci.org/ianmustafa/laravel-tdd.svg?branch=master)](https://travis-ci.org/ianmustafa/laravel-tdd) [![Code Style Status](https://github.styleci.io/repos/209108733/shield)](https://github.styleci.io/repos/209108733)
 
