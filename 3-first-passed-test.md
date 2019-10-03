@@ -699,7 +699,7 @@ Karena sebelumnya kita sudah menjalankan `php artisan ui`, artinya kita sudah pu
 </div>
 @endsection
 ```
-Lanjutkan dengan menyesuaikan `layouts.app` dengan mengubah beberapa bagian, yaotu judul halaman dan menambahkan link ke _route_ `/tasks`:
+Lanjutkan dengan menyesuaikan `layouts.app` dengan mengubah beberapa bagian, yaitu judul halaman dan menambahkan link ke _route_ `/tasks`:
 ```html
 <!-- resources/views/layouts/app.blade.php -->
 <!-- Di baris 10 -->
